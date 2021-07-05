@@ -2,3 +2,30 @@
   margin-left: 240px;
   padding-top: 50px;
 }
+
+.item-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 4px;
+  width: 80px;
+  margin: 0 10px;
+  border: 1px solid transparent;
+}
+
+.item-wrapper:hover {
+  border: 1px solid #eee;
+  background-color: #f1f1f1;
+}
+
+.item-name {
+  font-size: 14px;
+  margin: 4px 0;
+  text-align: center;
+}
+
+.item-icon {
+  width: 48px;
+}
