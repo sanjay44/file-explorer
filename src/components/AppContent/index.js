@@ -18,6 +18,7 @@ import FolderIcon from '../../assets/images/folder-icon.svg';
   Few must-have features
    - Add Night mode with ability to switch
    - Add proper accessibility to operate using keyboard navigation
+   - Change View (list or flex-box) for folder & file items
   
 
   Some advanced features
