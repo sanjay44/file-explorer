@@ -1,0 +1,7 @@
+.sidebar-wrapper {
+  background-color: var(--sidebar-bg-color);
+  height: 100%;
+  width: 240px;
+  position: fixed;
+  overflow-y: auto;
+}
